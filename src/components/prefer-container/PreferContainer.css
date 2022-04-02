@@ -132,6 +132,7 @@
 }
 
 .round {
+  z-index: 0;
   position: relative;
 }
 
@@ -176,6 +177,7 @@
 }
 
 .round2 {
+  z-index: 0;
   position: relative;
 }
 

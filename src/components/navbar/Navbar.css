@@ -2,6 +2,7 @@
   width: 100%;
 
   height: 58px;
+  z-index: 10;
   position: fixed;
   top: 0;
   left: 0;
@@ -32,6 +33,7 @@
   width: 61px;
   height: 64px;
   margin-top: 20px;
+
 }
 
 .certified {
@@ -92,3 +94,9 @@
     opacity: 1;
   }
 }
+
+
+
+
+
+

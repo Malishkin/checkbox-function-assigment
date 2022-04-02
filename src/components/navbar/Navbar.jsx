@@ -13,7 +13,9 @@ const Navbar = () => {
         <div className='certified2'>
           <img src={navLogo} className='emblem2' alt='' /> SECURE ORDER FORM
         </div>
+        
       </div>
+      
     </>
   );
 };

@@ -21,6 +21,7 @@ const Header = () => {
           </div>
           <div className='textSmall2'>Questions? 1-888-286-7307</div>
         </div>
+        
       </div>
     </>
   );
