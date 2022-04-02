@@ -1,6 +1,7 @@
 
 
 .header {
+  margin-top: 58px;
   /* top: 0px;
   left: 0px; */
   /* width: 100%; */
@@ -68,6 +69,7 @@
 }
 
 @media screen and (max-width: 1155px) {
+  
   .textContainer {
     margin-left: 150px;
   }
@@ -75,6 +77,9 @@
 }
 
 @media screen and (max-width: 905px) {
+  .header {
+    margin-top: 47px;
+  }
   /* .header {
     height: 84px;
   } */
