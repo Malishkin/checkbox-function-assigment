@@ -1,0 +1,22 @@
+.bottleBottle {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+  width: 260px;
+  height: 200px;
+}
+
+.bottleContainer {
+  display: none;
+
+}
+
+@media screen and (max-width: 1190px) {
+  
+
+ .bottleContainer {
+   display: flex;
+   justify-content: center;
+   
+ }
+}
